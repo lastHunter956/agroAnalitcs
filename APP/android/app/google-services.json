@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655174750284",
+    "project_id": "agro-analytics-fq5y26",
+    "storage_bucket": "agro-analytics-fq5y26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655174750284:android:b84e6deccc0947f6b464e9",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0NHoPHetp5HGkb-ApTfSjZBd3Q3uVAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
