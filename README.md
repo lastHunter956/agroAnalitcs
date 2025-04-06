@@ -1,6 +1,7 @@
 # 🌱 AgroAnalytics
 
 ![AgroAnalytics Banner](https://jesusserver.duckdns.org/core/preview?fileId=1180&x=1920&y=1080&a=true&etag=3a888d33fa7a691bd0b7b698abe7beb3)
+<img src="https://jesusserver.duckdns.org/core/preview?fileId=1180&x=1920&y=1080&a=true&etag=3a888d33fa7a691bd0b7b698abe7beb3" width="600" height="300">  
 
 AgroAnalytics es una aplicación móvil desarrollada como parte de un concurso organizado por el Ministerio TIC de Colombia. Su propósito es ayudar a los campesinos a tomar decisiones informadas sobre qué productos vender o exportar, basándose en el análisis de tendencias futuras del mercado.
 
