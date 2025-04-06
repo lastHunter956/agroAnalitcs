@@ -53,7 +53,7 @@ Para ejecutar correctamente AgroAnalytics necesitas:
 
 ## 📹 Demo
 
-Puedes ver una demostración completa de la aplicación [![](https://www.youtube.com/watch?v=cgwW77G7hYA)](https://www.youtube.com/watch?v=cgwW77G7hYA)
+Puedes ver una demostración completa de la aplicación <img src="https://img.youtube.com/vi/cgwW77G7hYA/hqdefault.jpg" width="600" height="300"> 
 
 
 
